@@ -1,6 +1,3 @@
-# Power-BI-dashboard
-# 🚴 AdventureWorks Sales & Profit Analytics Dashboard
-
 ## 1. Project Title / Headline
 **AdventureWorks Sales & Profit Insights Dashboard**  
 An interactive and dynamic Power BI report analyzing AdventureWorks’ global sales performance, customer segmentation, and product profitability — enabling data-driven decisions for business growth.
